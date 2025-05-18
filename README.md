@@ -1,2 +1,2 @@
 # Learning
-A repository to test my knowledge of JS, HTML, CSS and more
+Criei esse repositório no intuito de salvar os exercícios que irei fazer no processo de aprender a linguagem Golang
